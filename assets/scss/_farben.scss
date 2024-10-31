@@ -1,0 +1,30 @@
+/*
+Diese Datei beinhaltet alle Farben.
+Sie sorgt dafür, dass alle Templates
+1) gleich aussehen
+2) sofort nach "Plugin von muv" aussehen...
+*/
+
+/* 
+    Created on : 09.03.2017, 20:00:34
+    Author     : vogelor
+    Version    : 10.03.2017
+*/
+
+$muvBlau: #127BCA;
+$hellBlau: #F1F9FF;
+
+$grau: #A7A6A6;
+$hellgrau: #F2F3F3;
+
+$successHg: #dff0d8;
+$successText: darken($successHg, 40%);
+
+$infoHg: #d9edf7;
+$infoText: darken($infoHg, 40%);
+
+$warningHg: #fcf8e3;
+$warningText: darken($warningHg, 40%);
+
+$dangerHg: #f2dede;
+$dangerText: darken($dangerHg, 40%);
